@@ -6,6 +6,12 @@ Comparison Of Performance and Efficiency Of  Backend Frameworks: Spring Boot and
 * Express.js (JavaScript-based, lightweight, and commonly used with Node.js)
 * The goal is to evaluate the two frameworks on the following metrics:
 
+## Language Used
+### JAVA
+### JavaScript
+### MySQL
+### Rest API's
+
 ### * Request/Response Handling Time
 ### *Resource Consumption (CPU, Memory)
 ### *Scalability
@@ -31,7 +37,7 @@ Comparison Of Performance and Efficiency Of  Backend Frameworks: Spring Boot and
 ![Screenshot 2024-12-17 215413](https://github.com/user-attachments/assets/665c5180-8f33-4365-ae5a-ed91d6101fef)
 
 ###  I put together a summary of the results of the performance benchmarking tests. With this outcome in general, these results do provide somewhat clear insight both into
-### Spring Boot and Express.js, and then in on pros and cons compared across all metrics tested: request handling capacity, response time, memory usage and CPU utilization.
+### Spring Boot and Express.js, Then in on pros and cons compared across all metrics tested: request handling capacity, response time, memory usage and CPU utilization.
 
 
 
